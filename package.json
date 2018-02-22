@@ -4,7 +4,8 @@
   "description": "An app that allows users to view and search beers",
   "main": "app.module.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "app.module.js"
   },
   "author": "Paul Thorman",
   "license": "ISC",
