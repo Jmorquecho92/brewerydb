@@ -5,6 +5,7 @@
   "main": "app.module.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "gulp start",
     "start": "app.module.js"
   },
   "author": "Paul Thorman",
